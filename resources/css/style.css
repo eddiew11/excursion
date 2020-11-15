@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+}
+.headline p{
+    Font-weight: normal;
+    font-size: 50px;
+    color: white;
+    position: center;
+}
+.link p{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+.guideSection p{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
