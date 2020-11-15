@@ -19,3 +19,13 @@ html{
     font-size: 42px;
     color: white;
 }
+.tagline p{
+    font-size: 21px;
+    color: gray;
+}
+.copyright{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    padding-top: 20px;
+}
